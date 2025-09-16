@@ -16,7 +16,7 @@ public class Averages{
         int n3=number1.nextInt();
         System.out.println("please enter number 4:");
         int n4=number1.nextInt();
-        float verage=((n1+ n2 +n3+ n4)/4);
+        float verage=((n1+ n2 +n3+ n4)/4.0f);
 
         System.out.println("your average is: "+verage);
 
